@@ -1,2 +1,4 @@
 # test
-初始代码
+Public void test(){
+  System.out.println();
+}
